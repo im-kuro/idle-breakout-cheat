@@ -11,7 +11,8 @@
 use for more options
 `~$ GenerateCode.py -h`
 
-![caption] https://discord.com/channels/1067256182437331074/1113228739879383171/1113661166049296394
+
+https://github.com/im-kuro/idlea-breakout-cheat/assets/86091489/b1f8629d-63d2-4f2d-a2a5-f95b3049dbaf
 
 
 

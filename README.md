@@ -1,5 +1,6 @@
-# Kuros Coolmath Idle Breakout Cheat @im-kuro / @devkuro
-## The code is not finished yet, but it works. I will update it soon.
+# Kuros Coolmath Idle Breakout Cheat 
+### @im-kuro / @devkuro
+### The code is not finished yet, but it works. I will update it soon.
 
 
 

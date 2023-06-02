@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 # Kuros Coolmath Idle Breakout Cheat @im-kuro / @devkuro
 ## The code is not finished yet, but it works. I will update it soon.
+
+
+
+https://github.com/im-kuro/idlea-breakout-cheat/assets/86091489/b1f8629d-63d2-4f2d-a2a5-f95b3049dbaf
+
+
+
 
 
 

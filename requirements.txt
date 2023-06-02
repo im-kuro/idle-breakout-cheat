@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 base64
 argparse
 colorama

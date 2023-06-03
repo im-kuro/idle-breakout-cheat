@@ -3,7 +3,9 @@
 - The code is not finished yet, but it works. I will update it soon.
 #### @im-kuro / @devkuro
 
-https://cdn.discordapp.com/attachments/1113228739879383171/1114625164789940384/2023-06-03_14-40-49.mp4
+## Video of usage
+
+https://github.com/im-kuro/idle-breakout-cheat/assets/86091489/ef709815-953f-4565-a9be-b323c9766301
 
 
 

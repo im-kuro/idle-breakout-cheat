@@ -2,6 +2,13 @@
 # Kuros Coolmath Idle Breakout Cheat 
 - The code is not finished yet, but it works. I will update it soon.
 #### @im-kuro / @devkuro
+- https://linktr.ee/devkuro <3
+
+
+Yes after finding this vuln in the game i saw many others found the same thing, though all the scripts
+are shitty and not worth even trying to run so this code makes it 10x eaiser. Along with im reverse
+engineering all the values not just a few.
+
 
 ## Video of usage
 
